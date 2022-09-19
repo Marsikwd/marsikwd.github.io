@@ -350,7 +350,11 @@ footer {
 	.testimonials {
 		width: 75%;
 	}
-
+	
+	.card.testimonial {
+		height: 20rem;
+	}
+	
 	.testimonials__btn-container {
 		gap: 1rem;
 		bottom: 0%;
@@ -415,6 +419,10 @@ footer {
 	/* testimonial */
 	.testimonials {
 		width: 100%;
+	}
+	
+	.card.testimonial {
+		height: 18rem;
 	}
 
 	/* footer */
